@@ -1,0 +1,19 @@
+<persons>
+    <persons>
+        <name>Maria</name>
+        <gender>female</gender>
+        <address>
+            <street>Friedrichstasse</street>
+            <house_number>17</house_number>
+        </address>
+    </persons>
+
+    <persons>
+        <name>Ivan</name>
+        <gender>male</gender>
+        <address>
+            <street>Bahnhofstrasse</street>
+            <house_number>35</house_number>
+        </address>
+    </persons>
+</persons>
